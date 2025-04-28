@@ -1,8 +1,6 @@
 # appeleicao
 
-**Claro! Vou te ajudar com um arquivo README detalhado. Aqui está um modelo para o seu programa de contagem de votos:
-
----
+TESTE FEITO PELO CHATGPT EM 28/04
 
 # **Eleição - App de Contagem de Votos**
 
